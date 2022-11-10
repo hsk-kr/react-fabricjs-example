@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-fabricjs-example/static/css/main.8a7a2cba.css",
+    "main.js": "/react-fabricjs-example/static/js/main.e47df52e.js",
+    "index.html": "/react-fabricjs-example/index.html",
+    "main.8a7a2cba.css.map": "/react-fabricjs-example/static/css/main.8a7a2cba.css.map",
+    "main.e47df52e.js.map": "/react-fabricjs-example/static/js/main.e47df52e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a7a2cba.css",
+    "static/js/main.e47df52e.js"
+  ]
+}
